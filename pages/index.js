@@ -6,9 +6,9 @@ const Home = () => {
   return (
     <div className="root">
 
-      <Head>
+    {/*<Head>
         <title>GPT-3 Writer | buildspace</title>
-      </Head>
+      </Head>*/}
       <div className="container">
         <div className="header">
           <div className="header-title">
